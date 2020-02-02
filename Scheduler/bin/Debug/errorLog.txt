@@ -1,0 +1,18 @@
+12/7/2018 2:01:20 PMUnable to generate availability table!
+System.InvalidCastException: Specified cast is not valid.
+   at Scheduler.frmAvailability.cmbCurrentTeam_SelectedIndexChanged(Object sender, EventArgs e) in C:\Users\Greg\OneDrive\Documents\college\2018fall\csc236\FINAL\csc236_gtanaka_FinalProject\csc236_gtanaka_FinalProject\Scheduler\frmAvailability.cs:line 60
+12/7/2018 2:02:55 PMUnable to generate availability table!
+System.InvalidCastException: Specified cast is not valid.
+   at Scheduler.frmAvailability.cmbCurrentTeam_SelectedIndexChanged(Object sender, EventArgs e) in C:\Users\Greg\OneDrive\Documents\college\2018fall\csc236\FINAL\csc236_gtanaka_FinalProject\csc236_gtanaka_FinalProject\Scheduler\frmAvailability.cs:line 60
+12/7/2018 2:06:31 PMUnable to generate availability table!
+System.InvalidCastException: Specified cast is not valid.
+   at Scheduler.frmAvailability.cmbCurrentTeam_SelectedIndexChanged(Object sender, EventArgs e) in C:\Users\Greg\OneDrive\Documents\college\2018fall\csc236\FINAL\csc236_gtanaka_FinalProject\csc236_gtanaka_FinalProject\Scheduler\frmAvailability.cs:line 60
+12/7/2018 2:10:58 PMUnable to generate availability table!
+System.InvalidCastException: Specified cast is not valid.
+   at Scheduler.frmAvailability.cmbCurrentTeam_SelectedIndexChanged(Object sender, EventArgs e) in C:\Users\Greg\OneDrive\Documents\college\2018fall\csc236\FINAL\csc236_gtanaka_FinalProject\csc236_gtanaka_FinalProject\Scheduler\frmAvailability.cs:line 60
+12/7/2018 2:38:41 PMUnable to generate availability table!
+System.InvalidCastException: Specified cast is not valid.
+   at Scheduler.frmAvailability.cmbCurrentTeam_SelectedIndexChanged(Object sender, EventArgs e) in C:\Users\Greg\OneDrive\Documents\college\2018fall\csc236\FINAL\csc236_gtanaka_FinalProject\csc236_gtanaka_FinalProject\Scheduler\frmAvailability.cs:line 60
+12/7/2018 2:54:06 PMUnable to generate availability table!
+System.InvalidCastException: Specified cast is not valid.
+   at Scheduler.frmAvailability.cmbCurrentTeam_SelectedIndexChanged(Object sender, EventArgs e) in C:\Users\Greg\OneDrive\Documents\college\2018fall\csc236\FINAL\csc236_gtanaka_FinalProject\csc236_gtanaka_FinalProject\Scheduler\frmAvailability.cs:line 60

@@ -1,0 +1,3 @@
+12/7/2018 2:52:55 PMUnable to generate availability table!
+System.InvalidCastException: Specified cast is not valid.
+   at Scheduler.frmAvailability.cmbCurrentTeam_SelectedIndexChanged(Object sender, EventArgs e) in C:\Users\Greg\OneDrive\Documents\college\2018fall\csc236\FINAL\csc236_gtanaka_FinalProject\csc236_gtanaka_FinalProject\Scheduler\frmAvailability.cs:line 60
